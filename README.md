@@ -1,0 +1,1 @@
+Source code for the [Creating Online Streaming Radio With Rails and Icecast](https://scotch.io/tutorials/creating-online-streaming-radio-with-rails-and-icecast) published at Scotch by [Ilya Bodrov](http://bodrovis.tech).
